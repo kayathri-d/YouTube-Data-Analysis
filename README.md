@@ -32,7 +32,3 @@ October had the highest number of uploaded videos.
 BTS Dynamite had the highest number of likes.
 Netflix Cuties Trailer had the highest number of dislikes.
 Views and dislikes show a positive relationship.
-
-Author
-
-Kayathri
